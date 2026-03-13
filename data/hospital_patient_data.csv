@@ -1,0 +1,11 @@
+Patient_ID,Admission_Date,Discharge_Date,Department,Treatment_Cost,Diagnosis,Doctor
+P001,2024-01-02,2024-01-05,Cardiology,12000,Heart Disease,Dr. Sharma
+P002,2024-01-03,2024-01-08,Orthopedics,8000,Fracture,Dr. Patel
+P003,2024-01-05,2024-01-10,Neurology,15000,Stroke,Dr. Mehta
+P004,2024-01-07,2024-01-09,Pediatrics,5000,Fever,Dr. Rao
+P005,2024-01-10,2024-01-12,Cardiology,10000,Hypertension,Dr. Sharma
+P006,2024-01-12,2024-01-15,Orthopedics,7000,Joint Pain,Dr. Patel
+P007,2024-01-15,2024-01-18,Neurology,18000,Migraine,Dr. Mehta
+P008,2024-01-18,2024-01-21,Pediatrics,4000,Flu,Dr. Rao
+P009,2024-01-20,2024-01-23,Cardiology,11000,Arrhythmia,Dr. Sharma
+P010,2024-01-22,2024-01-26,Orthopedics,9000,Back Pain,Dr. Patel
